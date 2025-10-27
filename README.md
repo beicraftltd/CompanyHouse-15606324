@@ -107,7 +107,7 @@ CompanyHouse-15606324/
 ### Clone and Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/beicraftltd/CompanyHouse-15606324.git
 cd CompanyHouse-15606324
 npm ci
 npx playwright install --with-deps
